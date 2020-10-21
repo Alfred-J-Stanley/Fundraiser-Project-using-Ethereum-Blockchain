@@ -90,6 +90,8 @@ const FundraiserCard = (props) => {
 
   const classes = useStyles();
 
+  // use effect 
+
   useEffect(
     () => {
       if (fundraiser) {
