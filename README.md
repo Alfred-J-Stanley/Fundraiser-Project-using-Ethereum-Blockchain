@@ -3,7 +3,7 @@
 Welcome
 
 step - 1
-git clone https://gitlab.com/TeamKBA/ced_b4_projects/ced-b4-g20.git
+git clone https://github.com/math-ai-stanly/Fundraiser-Project-using-Ethereum-Blockchain
 
 step - 2 
 cd ced-b4-g20 && cd fundraiser && npm i
